@@ -1,1 +1,1 @@
-# bruteforcecode.py
+A password brute force algorithm.
