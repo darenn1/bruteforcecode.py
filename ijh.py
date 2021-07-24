@@ -4,7 +4,7 @@ List of most probable passwords and english names can be found, respectively, at
 - https://github.com/danielmiessler/SecLists/blob/master/Passwords/probable-v2-top12000.txt
 - https://github.com/dominictarr/random-name/blob/master/middle-names.txt
 Author: Osose Osoata
-Date: May 2018
+Date: July 2020
 Python 3
 """
 import string
